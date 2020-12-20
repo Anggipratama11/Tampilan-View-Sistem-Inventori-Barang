@@ -1,0 +1,20 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 34893
+
+[14:40:02] Extension host agent started.
+[14:40:04] [127.0.0.1][449d3b0b][ManagementConnection] New connection established.
+[14:40:04] [127.0.0.1][d730ef45][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[14:40:04] [127.0.0.1][d730ef45][ExtensionHostConnection] <264620> Launched Extension Host Process.
+[14:40:04] Listing 0 persistent terminals, 0 total terminals
+[14:40:04] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[14:40:07] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

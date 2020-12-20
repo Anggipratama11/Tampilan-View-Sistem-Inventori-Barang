@@ -1,0 +1,32 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.60.166
+IP Address: 172.26.0.1
+Extension host agent listening on 41501
+
+
+[06:28:39] Extension host agent started.
+[06:28:41] [127.0.0.1][cb367b35][ManagementConnection] New connection established.
+[06:28:41] [127.0.0.1][daa33d72][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[06:28:41] [127.0.0.1][daa33d72][ExtensionHostConnection] <242115> Launched Extension Host Process.
+[06:28:44] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[06:49:15] [127.0.0.1][cb367b35][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[09:49:08] [127.0.0.1][daa33d72][ExtensionHostConnection] <242115> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[09:49:08] Last EH closed, waiting before shutting down
+[09:49:15] [127.0.0.1][cb367b35][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[09:54:08] Last EH closed, shutting down

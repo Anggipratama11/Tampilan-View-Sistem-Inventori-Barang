@@ -1,0 +1,74 @@
+[2020-12-19 06:49:31.002] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-19 06:49:31.002] [remoteagent] [info] Extension host agent started.
+[2020-12-19 06:49:34.587] [remoteagent] [info] [127.0.0.1][cccf2505][ManagementConnection] New connection established.
+[2020-12-19 06:49:34.589] [remoteagent] [info] [127.0.0.1][1e2056d9][ExtensionHostConnection] New connection established.
+[2020-12-19 06:49:34.678] [remoteagent] [info] [127.0.0.1][1e2056d9][ExtensionHostConnection] <242436> Launched Extension Host Process.
+[2020-12-19 06:49:37.055] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 06:49:37.063] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 06:49:40.212] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 06:50:11.662] [remoteagent] [info] [127.0.0.1][1e2056d9][ExtensionHostConnection] The client has reconnected.
+[2020-12-19 06:50:57.328] [remoteagent] [info] [127.0.0.1][659851b4][ManagementConnection] New connection established.
+[2020-12-19 06:50:57.329] [remoteagent] [info] [127.0.0.1][c749fdfc][ExtensionHostConnection] New connection established.
+[2020-12-19 06:50:57.333] [remoteagent] [info] [127.0.0.1][c749fdfc][ExtensionHostConnection] <242718> Launched Extension Host Process.
+[2020-12-19 06:50:57.898] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 06:52:14.875] [remoteagent] [info] [127.0.0.1][cccf2505][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 06:52:15.903] [remoteagent] [info] [127.0.0.1][1e2056d9][ExtensionHostConnection] <242436> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 06:52:27.948] [remoteagent] [info] [127.0.0.1][659851b4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 06:52:28.982] [remoteagent] [info] [127.0.0.1][c749fdfc][ExtensionHostConnection] <242718> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 06:52:28.982] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 06:52:37.904] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-19 06:52:37.904] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 06:52:39.534] [remoteagent] [info] [127.0.0.1][621c0363][ManagementConnection] New connection established.
+[2020-12-19 06:52:39.534] [remoteagent] [info] [127.0.0.1][28646b71][ExtensionHostConnection] New connection established.
+[2020-12-19 06:52:39.538] [remoteagent] [info] [127.0.0.1][28646b71][ExtensionHostConnection] <243104> Launched Extension Host Process.
+[2020-12-19 06:52:40.157] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 06:53:01.818] [remoteagent] [info] [127.0.0.1][621c0363][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 06:53:02.839] [remoteagent] [info] [127.0.0.1][28646b71][ExtensionHostConnection] <243104> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 06:53:02.839] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 06:53:02.839] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 06:53:11.532] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-19 06:53:11.532] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 06:53:14.282] [remoteagent] [info] [127.0.0.1][48677587][ManagementConnection] New connection established.
+[2020-12-19 06:53:14.283] [remoteagent] [info] [127.0.0.1][69e051a0][ExtensionHostConnection] New connection established.
+[2020-12-19 06:53:14.286] [remoteagent] [info] [127.0.0.1][69e051a0][ExtensionHostConnection] <243282> Launched Extension Host Process.
+[2020-12-19 06:53:15.071] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 06:53:15.076] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 06:53:18.129] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 06:58:11.534] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-19 07:18:23.128] [remoteagent] [info] [127.0.0.1][48677587][ManagementConnection] The client has reconnected.
+[2020-12-19 07:18:23.129] [remoteagent] [info] [127.0.0.1][69e051a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-19 07:56:31.624] [remoteagent] [info] [127.0.0.1][48677587][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 07:56:32.651] [remoteagent] [info] [127.0.0.1][69e051a0][ExtensionHostConnection] <243282> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 07:56:32.651] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 08:00:23.445] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-19 08:00:23.445] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 08:00:27.957] [remoteagent] [info] [127.0.0.1][4c0dff99][ManagementConnection] New connection established.
+[2020-12-19 08:00:27.962] [remoteagent] [info] [127.0.0.1][b39df3cd][ExtensionHostConnection] New connection established.
+[2020-12-19 08:00:27.966] [remoteagent] [info] [127.0.0.1][b39df3cd][ExtensionHostConnection] <249551> Launched Extension Host Process.
+[2020-12-19 08:00:29.608] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 08:00:29.616] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 08:00:32.175] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 08:05:23.445] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-19 08:33:58.834] [remoteagent] [info] [127.0.0.1][4c0dff99][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-19 08:35:42.704] [remoteagent] [info] [127.0.0.1][4c0dff99][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-19 08:35:42.704] [remoteagent] [info] [127.0.0.1][5a7133e7][ManagementConnection] New connection established.
+[2020-12-19 08:35:42.705] [remoteagent] [info] [127.0.0.1][ea35fb63][ExtensionHostConnection] New connection established.
+[2020-12-19 08:35:42.709] [remoteagent] [info] [127.0.0.1][ea35fb63][ExtensionHostConnection] <253006> Launched Extension Host Process.
+[2020-12-19 08:35:47.321] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 08:35:47.327] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 08:35:50.684] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 08:40:42.706] [remoteagent] [info] [127.0.0.1][4c0dff99][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-19 08:40:43.732] [remoteagent] [info] [127.0.0.1][b39df3cd][ExtensionHostConnection] <249551> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 09:27:50.519] [remoteagent] [info] [127.0.0.1][5a7133e7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 09:27:51.547] [remoteagent] [info] [127.0.0.1][ea35fb63][ExtensionHostConnection] <253006> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 09:27:51.547] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 09:32:51.548] [remoteagent] [info] Last EH closed, shutting down

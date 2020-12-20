@@ -1,0 +1,159 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/laravel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/seeders/DatabaseSeeder.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/seeders/DatabaseSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git check-ignore -v -z --stdin
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git show --textconv :src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git show --textconv :src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git show --textconv :src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063457_create_tblpenjualan_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_063942_create_tblpembayaran_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064345_create_tblsupplier_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_064843_create_tblpembeli_table.php
+> git show --textconv :src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_11_24_062725_create_tblbarang_table.php
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env

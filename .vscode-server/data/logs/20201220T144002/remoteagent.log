@@ -1,0 +1,17 @@
+[2020-12-20 14:40:02.703] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-20 14:40:02.703] [remoteagent] [info] Extension host agent started.
+[2020-12-20 14:40:04.039] [remoteagent] [info] [127.0.0.1][449d3b0b][ManagementConnection] New connection established.
+[2020-12-20 14:40:04.044] [remoteagent] [info] [127.0.0.1][d730ef45][ExtensionHostConnection] New connection established.
+[2020-12-20 14:40:04.135] [remoteagent] [info] [127.0.0.1][d730ef45][ExtensionHostConnection] <264620> Launched Extension Host Process.
+[2020-12-20 14:40:04.592] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-20 14:40:04.600] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-20 14:40:07.604] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
